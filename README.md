@@ -36,7 +36,7 @@ Automation practice #2 with Amazon - **Mohammad Khan**
 
 
 > Recommend to use the latest version of:
-[Java](https://www.oracle.com/java/technologies/downloads/)
+[Java](https://www.oracle.com/java/technologies/downloads/) & 
 [Intellij IDEA](https://www.jetbrains.com/idea/download/#section=windows)
 
 # runnning the project
